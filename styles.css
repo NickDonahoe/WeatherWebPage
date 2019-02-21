@@ -1,0 +1,20 @@
+h1 {
+    color: teal;
+    
+  }
+  
+.card-body {
+    padding : 5%;
+  }
+
+body {
+    background-color: #f8f9fa;
+}
+
+hr {
+    border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+    border-style: solid none;
+    border-width: 1px 0;
+    margin: 18px 0;
+    color : lightgray;
+  }
